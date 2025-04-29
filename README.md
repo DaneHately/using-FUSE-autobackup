@@ -1,4 +1,4 @@
-# my-ace-backup
+# Automatic bucket backup using FUSE
 
 ## Automate GCP Backups with Cloud Storage as Local Files
 
